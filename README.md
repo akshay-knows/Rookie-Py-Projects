@@ -1,2 +1,4 @@
 # String-to-List-Generator
-Just a Some Rookie Project
+Some Py project for the sake of basics. 
+
+Errors will find it's way.
